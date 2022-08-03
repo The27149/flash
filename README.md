@@ -1,2 +1,2 @@
-# flash
-模拟闪电
+# hello-world
+Hello world new project template.
